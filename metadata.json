@@ -1,0 +1,6 @@
+{
+  "name": "JP Tools & Machine",
+  "description": "Premium industrial and textile machinery catalog, specializing in looms, winders, warping machines, and spare parts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
